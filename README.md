@@ -1,3 +1,4 @@
+[![Build Status](https://dev.azure.com/flurrycode/learn-azure/_apis/build/status/feng-di.test-azpipeline-js?branchName=main)](https://dev.azure.com/flurrycode/learn-azure/_build/latest?definitionId=1&branchName=main)
 ---
 page_type: sample
 languages:
